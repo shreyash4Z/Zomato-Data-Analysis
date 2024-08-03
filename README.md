@@ -53,7 +53,7 @@ Dataset Link : https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zomato-restaurant-analysis.git
+   git clone https://github.com/shreyash4Z/Zomato-Data-Analysis
 2.   Navigate to the project directory:
      ```bash
      cd Zomato_Data_Analysis
