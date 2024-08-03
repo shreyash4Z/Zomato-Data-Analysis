@@ -1,4 +1,4 @@
-#Zomato Data Analysis
+##Zomato Data Analysis
 
 Project Overview
 This project involves an in-depth analysis of restaurant data from Zomato to gain insights into restaurant ratings, voting patterns, locations, and cuisines. The analysis includes data cleaning, feature extraction, and various visualizations to identify trends and patterns in the dataset.
